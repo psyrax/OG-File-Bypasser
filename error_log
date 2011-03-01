@@ -1,0 +1,16 @@
+[05-Jan-2011 13:36:09] PHP Parse error:  syntax error, unexpected '{' in /home/opiumga/public_html/dwnld/index.php on line 35
+[05-Jan-2011 13:55:11] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/opiumga/public_html/dwnld/index.php on line 9
+[05-Jan-2011 13:55:13] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/opiumga/public_html/dwnld/index.php on line 9
+[05-Jan-2011 13:55:37] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/opiumga/public_html/dwnld/index.php on line 9
+[05-Jan-2011 13:55:39] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/opiumga/public_html/dwnld/index.php on line 9
+[05-Jan-2011 13:55:46] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/opiumga/public_html/dwnld/index.php on line 9
+[05-Jan-2011 13:58:05] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/opiumga/public_html/dwnld/index.php on line 8
+[05-Jan-2011 13:58:08] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/opiumga/public_html/dwnld/index.php on line 8
+[05-Jan-2011 13:58:26] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/opiumga/public_html/dwnld/index.php on line 8
+[05-Jan-2011 14:00:10] PHP Parse error:  syntax error, unexpected T_BOOLEAN_AND in /home/opiumga/public_html/dwnld/index.php on line 79
+[05-Jan-2011 14:20:31] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/opiumga/public_html/dwnld/index.php:2) in /home/opiumga/public_html/dwnld/index.php on line 29
+[05-Jan-2011 14:20:31] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/opiumga/public_html/dwnld/index.php:2) in /home/opiumga/public_html/dwnld/index.php on line 30
+[05-Jan-2011 14:21:21] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/opiumga/public_html/dwnld/index.php:2) in /home/opiumga/public_html/dwnld/index.php on line 29
+[05-Jan-2011 14:21:21] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/opiumga/public_html/dwnld/index.php:2) in /home/opiumga/public_html/dwnld/index.php on line 30
+[05-Jan-2011 14:21:54] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/opiumga/public_html/dwnld/index.php:2) in /home/opiumga/public_html/dwnld/index.php on line 29
+[05-Jan-2011 14:21:54] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/opiumga/public_html/dwnld/index.php:2) in /home/opiumga/public_html/dwnld/index.php on line 30
